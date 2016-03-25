@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/SeminarioCursoLogica.java</file>
-            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/TipoGradosAcademicosLogica.java</file>
-            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/GradosAcademicosLogica.java</file>
+            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/HoraTrabajoJuniorLogica.java</file>
+            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/PresupuestoJefeDesarrolloLogica.java</file>
+            <file>file:/home/andres/NetBeansProjects/ProyectoCompetencias/src/java/logica/CantidadProyectosSeniorLogica.java</file>
         </group>
     </open-files>
 </project-private>

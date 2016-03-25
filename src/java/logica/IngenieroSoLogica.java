@@ -57,7 +57,7 @@ public class IngenieroSoLogica implements IngenieroSoLogicaLocal {
                 objSistemaO.setIngenieroSoPK(sistemaO.getIngenieroSoPK());
                 sistemaOperativoDAO.edit(objSistemaO);
             }else{
-                throw new Exception("Este sistema operativo no está en la base de datos");
+                throw new Exception("Este sistema operativo no está registrado en la base de datos");
             }
         }
     }
